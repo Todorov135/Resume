@@ -70,8 +70,11 @@ a{
     top: 20px;
     left: 20px;
 } 
-.education{
+.experience{
     margin-top: 124px;
+}
+.separator{
+    margin-bottom: 2px;
 }
 ul{
     list-style-type: none;
